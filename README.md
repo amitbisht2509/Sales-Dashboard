@@ -3,6 +3,14 @@
 A professional end-to-end **Sales Dashboard** built using **Power BI** to analyze business performance across revenue, profit, orders, returns, top products, and customer behavior.  
 This dashboard helps decision-makers monitor KPIs, identify sales trends, evaluate customer segments, and analyze product profitability to drive strategic actions.
 
+### 📥 Download Project Files
+- **PBIX File:**  
+  https://github.com/amitbisht2509/Sales-Dashboard/blob/main/Sales%20Dashboard.pbix
+
+- **Dataset Folder:**  
+  https://github.com/amitbisht2509/Sales-Dashboard/tree/main/Dataset
+
+
 ---
 
 ## 🚩 Business Problem
@@ -32,6 +40,7 @@ Managers needed a clear view of:
 - Top 10 products by revenue & return %
 - Most ordered & most returned product types
 
+![Exec Dashboard](https://github.com/amitbisht2509/Sales-Dashboard/blob/main/Exec%20Dashboard.png)
 
 ### **2️⃣ Product Detail Page**
 - Product selection panel
@@ -40,13 +49,15 @@ Managers needed a clear view of:
 - Total Profit vs Adjusted Profit comparison chart
 - Performance metric selector (orders, profit, revenue, returns)
 
+![Product Detail](https://github.com/amitbisht2509/Sales-Dashboard/blob/main/Product%20Detail.png)
+
 ### **3️⃣ Customer Detail Page**
 - Unique customers & revenue per customer KPIs
 - Customer trend chart by month
 - Top 100 customers table ranked by orders & revenue
 - Customer segmentation by Income & Occupation
 - Top customer card with insights
-
+![Customer Detail](https://github.com/amitbisht2509/Sales-Dashboard/blob/main/Customer%20Detail.png)
 ---
 
 ## 🧠 Key Insights
@@ -54,7 +65,6 @@ Managers needed a clear view of:
 - **Tires & Tubes** was the most ordered product category.
 - **Shorts** had the highest return percentage.
 - High-income & professional customers contributed the most revenue.
-- Product price adjustment simulation showed potential +260% increase in profit.
 
 ---
 
@@ -66,6 +76,4 @@ Managers needed a clear view of:
 | DAX | Measures & calculated metrics |
 | Excel / CSV | Data Source |
 
----
 
-## 📁 Project Structure
