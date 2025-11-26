@@ -1,4 +1,4 @@
-#** 📊 Sales Dashboard – Power BI**
+# **📊 Sales Dashboard – Power BI**
 
 A professional end-to-end **Sales Dashboard** built using **Power BI** to analyze business performance across revenue, profit, orders, returns, top products, and customer behavior.  
 This dashboard helps decision-makers monitor KPIs, identify sales trends, evaluate customer segments, and analyze product profitability to drive strategic actions.
